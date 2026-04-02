@@ -55,15 +55,13 @@ metu-ie-chatbot/
 │   └── search.ts               # BM25 retrieval engine
 ├── data/
 │   └── knowledge_base.json     # Processed knowledge base (608 chunks)
-├── scripts/                    # Python data pipeline
-│   ├── forms/                  # Source documents (PDFs, .doc files)
-│   ├── scraper.py              # Crawls sp-ie.metu.edu.tr
-│   ├── ingest_forms.py         # Extracts text from forms/
-│   ├── rechunk.py              # Merges fragments + adds FAQ
-│   ├── faq.json                # Custom FAQ dataset (25 Q&A)
-│   └── knowledge_base.json     # Raw knowledge base (pre-rechunk)
-└── docs/
-    └── IE304_Project1.pdf      # Project assignment
+└── scripts/                    # Python data pipeline
+    ├── forms/                  # Source documents (PDFs, .doc files)
+    ├── scraper.py              # Crawls sp-ie.metu.edu.tr
+    ├── ingest_forms.py         # Extracts text from forms/
+    ├── rechunk.py              # Merges fragments + adds FAQ
+    ├── faq.json                # Custom FAQ dataset (25 Q&A)
+    └── knowledge_base.json     # Raw knowledge base (pre-rechunk)
 ```
 
 ---
