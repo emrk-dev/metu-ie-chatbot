@@ -10,7 +10,7 @@ An intelligent chatbot that answers student questions about METU-IE Summer Pract
 
 ## Live Demo
 
-> Deployed on Vercel — link will be added after deployment.
+> **[metu-ie-chatbot.vercel.app](https://metu-ie-chatbot.vercel.app)**
 
 ---
 
