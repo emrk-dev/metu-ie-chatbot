@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is IE 300?",
+    "answer": "IE 300 is the first compulsory summer practice course for METU Industrial Engineering students. It is typically done after the second year and requires a minimum of 20 working days (4 weeks) at an approved company. The student must prepare a summer practice report following the IE 300 manual guidelines."
+  },
+  {
+    "question": "What is IE 400?",
+    "answer": "IE 400 is the second compulsory summer practice course for METU Industrial Engineering students. It is typically done after the third year and requires a minimum of 20 working days (4 weeks). For project-based internships, it must be at least 6 weeks. The student must prepare a report following the IE 400 manual (manufacturing or service sector version)."
+  },
+  {
+    "question": "What are the prerequisites for IE 300?",
+    "answer": "To be eligible for IE 300, students must have completed at least two years of the IE undergraduate program and be registered for the IE 300 course. The internship must be done at a company approved by the IE Summer Practice Committee."
+  },
+  {
+    "question": "What are the prerequisites for IE 400?",
+    "answer": "To be eligible for IE 400, students must have completed IE 300 successfully and be registered for the IE 400 course. The internship must be done at a different company than IE 300 unless approved by the SP Committee."
+  },
+  {
+    "question": "How many working days is the summer practice?",
+    "answer": "Both IE 300 and IE 400 require a minimum of 20 working days (4 weeks). For IE 400 project-based internships, the minimum duration is 6 weeks (30 working days). Weekends and public holidays do not count as working days."
+  },
+  {
+    "question": "What documents do I need for summer practice?",
+    "answer": "Required documents include: the SP application form (IE300 or IE400 version), the internship work contract (staj sözleşmesi) signed by the company and the university, SGK insurance application through the OCW system, health declaration forms (beyanname), and the unemployment fund contribution form. After completing the internship, you must submit your summer practice report."
+  },
+  {
+    "question": "How do I apply for SGK insurance for my internship?",
+    "answer": "SGK (Social Security Institution) insurance for interns is mandatory in Turkey. You must apply through the OCW system provided by METU before starting your internship. Read the instructions in the General Information section of sp-ie.metu.edu.tr carefully before applying. The university covers the SGK insurance cost for eligible students."
+  },
+  {
+    "question": "Can I do my internship remotely or online?",
+    "answer": "No. Summer internships must be done by physically attending the workplace. Remote or online internships are not accepted for IE 300 or IE 400."
+  },
+  {
+    "question": "What is a project-based internship for IE 400?",
+    "answer": "A project-based internship for IE 400 allows students to work on a specific engineering project instead of a traditional internship. It must be at least 6 weeks long. Before starting, you must submit a detailed proposal to the SP Committee describing the internship content. The internship can only begin after the proposal is approved."
+  },
+  {
+    "question": "Can I do my internship abroad through Erasmus?",
+    "answer": "Yes. Within the Erasmus program, it is possible to do an internship through Student Internship Mobility. Internships are generally in Europe for a minimum of 3 months and a maximum of 12 months. A 3-month Erasmus internship can only be counted as one of IE 300 or IE 400, not both. For more details, check the METU Erasmus office website."
+  },
+  {
+    "question": "Can I do my internship at a public institution?",
+    "answer": "Yes, but all public institutions in Turkey (kamu kurumları) accept internship applications through a centralized system. You must apply through that system. Please consult the relevant page on sp-ie.metu.edu.tr for further information."
+  },
+  {
+    "question": "What is the difference between IE 400 manufacturing and service manuals?",
+    "answer": "IE 400 has two different report manuals depending on the type of company. The manufacturing manual is for students doing their internship at manufacturing/production companies. The service manual is for students at service-sector companies (e.g., logistics, consulting, finance). You must use the correct manual based on your internship company type."
+  },
+  {
+    "question": "How do I get my internship contract signed?",
+    "answer": "If you need your SP work contract (staj sözleşmesi) to be signed by the university, leave it at the Undergraduate Secretary Office (IE 129) and pick it up in one week."
+  },
+  {
+    "question": "Where do I submit my summer practice report?",
+    "answer": "Summer practice reports are submitted according to the deadlines announced on sp-ie.metu.edu.tr. Reports must follow the format described in the IE 300 or IE 400 manual. Submission details and deadlines are announced on the official SP website and through the department."
+  },
+  {
+    "question": "What happens if my internship is rejected?",
+    "answer": "If your summer practice application or report is rejected by the SP Committee, you will need to redo the internship or revise your report based on the feedback given. Make sure to follow the manual guidelines carefully and have your application approved before starting the internship."
+  },
+  {
+    "question": "When is the summer practice period?",
+    "answer": "Summer practices are typically done during the summer semester (July–August). The exact dates and deadlines for applications and report submissions are announced each year on the official METU-IE Summer Practice website at sp-ie.metu.edu.tr/en."
+  },
+  {
+    "question": "Do I need to find the company myself?",
+    "answer": "Yes, students are generally responsible for finding their own internship company. The company must be approved by the IE SP Committee. You can check the SP website for lists of previously approved companies or guidance on finding suitable companies."
+  },
+  {
+    "question": "What sections must the IE 300 report include?",
+    "answer": "The IE 300 summer practice report must follow the structure defined in the IE 300 manual. It includes sections covering the company background, production/service processes, quality management, safety, and IE-related observations. The report must address specific questions listed in each section of the manual."
+  },
+  {
+    "question": "What sections must the IE 400 report include?",
+    "answer": "The IE 400 report structure depends on whether you use the manufacturing or service manual. Both manuals include sections on company overview, operations management, industrial engineering applications, and a personal evaluation section. Refer to the appropriate manual for detailed section requirements."
+  },
+  {
+    "question": "Who evaluates the summer practice report?",
+    "answer": "Summer practice reports are evaluated by the METU Industrial Engineering Summer Practice Committee. The committee reviews whether the report meets the format and content requirements specified in the relevant manual (IE 300 or IE 400). Company supervisors also fill in the evaluation form for the student."
+  },
+  {
+    "question": "What is the evaluation form?",
+    "answer": "The evaluation form (evaluation_form_english) is filled by the company supervisor at the end of the internship. It assesses the student's performance, behavior, and contribution during the internship. The sealed evaluation form is sent directly to the IE department by the company."
+  },
+  {
+    "question": "Can I contact the department if I have more questions?",
+    "answer": "Yes, but the department asks students to first check the SP website (sp-ie.metu.edu.tr/en) and the meeting slides carefully before sending an email. If your question is not answered there, you may contact the SP Committee by email. The undergraduate secretary office (IE 129) can also assist with document-related matters."
+  },
+  {
+    "question": "What is the SP application form?",
+    "answer": "The SP application form is the official form you submit to the IE department before starting your internship. There are separate forms for IE 300 and IE 400 (sp_application_form_ie300_eng and sp_application_form_ie400_eng). The form includes details about the company, internship dates, and must be approved before you begin."
+  },
+  {
+    "question": "Can IE 300 and IE 400 be done at the same company?",
+    "answer": "Generally, IE 300 and IE 400 must be done at different companies. However, exceptions may be granted by the SP Committee in special cases. You must get approval from the committee before proceeding."
+  },
+  {
+    "question": "Is the summer practice graded as pass/fail?",
+    "answer": "Yes, the summer practice courses (IE 300 and IE 400) are evaluated on a pass/fail basis. If your report and internship meet the requirements of the manual and the SP Committee's standards, you receive a passing grade."
+  }
+]
