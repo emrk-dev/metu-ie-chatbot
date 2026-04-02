@@ -15,3 +15,7 @@ venv/
 __pycache__/
 *.pyc
 .DS_Store
+
+# Data pipeline artifacts (not needed for the app)
+scripts/forms/
+scripts/knowledge_base.json
