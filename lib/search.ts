@@ -1,4 +1,3 @@
-// Author: emrk-dev
 /**
  * lib/search.ts
  * BM25-style keyword search over the knowledge base.

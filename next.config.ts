@@ -1,4 +1,3 @@
-// Author: emrk-dev
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {

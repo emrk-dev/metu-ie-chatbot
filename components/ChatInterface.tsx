@@ -1,4 +1,3 @@
-// Author: emrk-dev
 "use client";
 
 import { useState, useRef, useEffect } from "react";

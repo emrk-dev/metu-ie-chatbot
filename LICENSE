@@ -1,17 +1,17 @@
-COPYRIGHT NOTICE / ALL RIGHTS RESERVED
+Educational Use License
 
-Copyright (c) 2026 emrk-dev
+Copyright (c) 2026 METU Industrial Engineering — IE 304 Project Group
 
-All rights reserved.
+This project was developed solely for educational purposes as part of the
+IE 304 course at Middle East Technical University, Department of Industrial
+Engineering.
 
-This repository and its source code are made publicly available strictly for portfolio demonstration and evaluation purposes. 
+Permission is granted to use, copy, and reference this project for
+non-commercial, educational purposes only, provided that the above copyright
+notice and this permission notice appear in all copies.
 
-You are welcome to read and review the code. However, you are NOT granted any rights or licenses to:
-- Copy, clone, or download the code for your own projects.
-- Modify, alter, or create derivative works from this codebase.
-- Distribute, publish, or share the code.
-- Use the code, models, or associated datasets for any commercial or non-commercial purposes.
+This software is provided "as is", without warranty of any kind. The authors
+are not liable for any claim or damages arising from the use of this software.
 
-Any unauthorized use of this repository's contents is strictly prohibited. 
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+Commercial use, redistribution, or modification for purposes other than
+education requires explicit written permission from the authors.

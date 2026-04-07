@@ -1,6 +1,5 @@
 # METU-IE Summer Practice Chatbot
 
-**Author:** emrk-dev
 **Course:** IE 304 – Project 1
 **Institution:** Middle East Technical University, Industrial Engineering Department
 
@@ -155,4 +154,4 @@ python rechunk.py
 - SP Application Forms (IE300/IE400)
 - Evaluation Form
 - SGK Declaration Forms
-- Custom FAQ dataset (25 Q&A authored by emrk-dev)
+- Custom FAQ dataset (25 Q&A)

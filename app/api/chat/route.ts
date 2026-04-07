@@ -1,4 +1,3 @@
-// Author: emrk-dev
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import { NextRequest, NextResponse } from "next/server";
 import { search } from "@/lib/search";

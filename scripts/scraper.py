@@ -1,4 +1,3 @@
-# Author: emrk-dev
 """
 scraper.py
 ----------

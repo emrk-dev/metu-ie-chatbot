@@ -1,4 +1,3 @@
-# Author: emrk-dev
 """
 ingest_forms.py
 ---------------
