@@ -19,3 +19,5 @@ __pycache__/
 # Data pipeline artifacts (not needed for the app)
 scripts/forms/
 scripts/knowledge_base.json
+scripts/faq.json
+docs/
