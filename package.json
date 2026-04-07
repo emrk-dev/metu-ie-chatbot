@@ -1,6 +1,7 @@
 {
   "name": "metu-ie-chatbot",
   "version": "0.1.0",
+  "description": "METU-IE Summer Practice Chatbot — IE 304 Project 1",
   "private": true,
   "scripts": {
     "dev": "next dev",
