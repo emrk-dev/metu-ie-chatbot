@@ -1,4 +1,3 @@
-// Author: emrk-dev
 const config = {
   plugins: {
     tailwindcss: {},
