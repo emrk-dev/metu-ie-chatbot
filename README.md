@@ -13,6 +13,12 @@ An intelligent chatbot that answers student questions about METU-IE Summer Pract
 
 ---
 
+## AI Interaction Log
+
+AI tools were used during development. See [AI_LOG.md](./AI_LOG.md) for a full breakdown of how Claude Code was used throughout the project.
+
+---
+
 ## Features
 
 - Answers questions about IE300/IE400 requirements, application steps, SGK insurance, required documents, deadlines, and more
@@ -100,9 +106,8 @@ User
 # 1. Install dependencies
 npm install
 
-# 2. Create environment file
-cp .env.local.example .env.local
-# Add your Gemini API key to .env.local
+# 2. Create environment file and add your Gemini API key
+echo "GEMINI_API_KEY=your_api_key_here" > .env.local
 
 # 3. Run development server
 npm run dev
