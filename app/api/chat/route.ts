@@ -60,7 +60,7 @@ export async function POST(req: NextRequest) {
 
     // Build chat history for multi-turn
     const model = genAI.getGenerativeModel({
-      model: "gemini-3.1-flash-lite-preview",
+      model: "gemini-3.1-flash-lite",
       systemInstruction: SYSTEM_PROMPT,
     });
 
