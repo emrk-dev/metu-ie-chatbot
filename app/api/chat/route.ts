@@ -60,7 +60,7 @@ export async function POST(req: NextRequest) {
 
     // Build chat history for multi-turn
     const model = genAI.getGenerativeModel({
-      model: "gemini-3.1-flash-lite",
+      model: "gemini-3-flash-preview",
       systemInstruction: SYSTEM_PROMPT,
     });
 
@@ -71,8 +71,26 @@ export async function POST(req: NextRequest) {
       })),
     });
 
-    const result = await chat.sendMessage(buildPrompt(context, message));
-    const text = result.response.text();
+    let text = "";
+    let lastErr: unknown;
+    for (let attempt = 0; attempt < 3; attempt++) {
+      try {
+        const result = await chat.sendMessage(buildPrompt(context, message));
+        text = result.response.text();
+        break;
+      } catch (err) {
+        lastErr = err;
+        if (attempt < 2) await new Promise((r) => setTimeout(r, 1000 * Math.pow(2, attempt)));
+      }
+    }
+
+    if (!text) {
+      console.error("[chat/route] all retries failed", lastErr);
+      return NextResponse.json(
+        { answer: "Şu an Google'ın API'si patladı, biraz sonra tekrar dene.", sources: [] },
+        { status: 200 }
+      );
+    }
 
     return NextResponse.json({
       answer: text,
